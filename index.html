@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AS4343 Hazard Rating Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>AS4343 Hazard Rating Calculator</h1>
+        <div class="input-form">
+            <label for="pipeSize">Pipe Size (DN, mm):</label>
+            <input type="number" id="pipeSize">
+
+            <label for="fluidGroup">Fluid Group:</label>
+            <select id="fluidGroup">
+                <option value="1">NHL (Non-harmful liquid: Water, etc.)</option>
+                <option value="2">NHG (Non-harmful gas: Air, inert gases)</option>
+                <option value="3">HL (Harmful liquid: Gasoline, kerosene, etc.)</option>
+                <option value="4">HG (Harmful gas: Natural gas, propane, etc.)</option>
+                <option value="5">LG (Lethal gas: Chlorine, ammonia, etc.)</option>
+                <option value="6">VHG (Very harmful gas: Extremely toxic gases)</option>
+                <option value="7">VHL (Very harmful liquid: Extremely toxic liquids)</option>
+                <option value="8">LL (Lethal liquid: extremely dangerous liquids)</option>
+            </select>
+            <a href="fluid-types.html" target="_blank">Fluid Types List</a>
+
+            <label for="pressure">Pressure (Bar):</label>
+            <input type="number" id="pressure">
+
+            <label for="temperature">Temperature (°C):</label>
+            <input type="number" id="temperature">
+
+            <label for="locationFactor">Location Factor (L):</label>
+            <select id="locationFactor">
+                <option value="0.8">0.8 (Remote/Isolated)</option>
+                <option value="1">1 (General Industrial)</option>
+                <option value="1.2">1.2 (Public Access/High Occupancy)</option>
+            </select>
+
+            <label for="leakageFactor">Leakage Factor (F):</label>
+            <select id="leakageFactor">
+                <option value="1.0">1.0 (Welded joints, fully restrained)</option>
+                <option value="1.2">1.2 (Threaded, flanged with gaskets)</option>
+                <option value="1.5">1.5 (Compression, screwed fittings)</option>
+                <option value="2.0">2.0 (Flexible hoses, quick-connect)</option>
+            </select>
+
+            <button id="calculate">Calculate Hazard Rating</button>
+        </div>
+        <div class="result" style="display: none;">
+            <h2>Hazard Rating:</h2>
+            <p id="hazardRating"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

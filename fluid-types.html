@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluid Types</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .tab-container {
+            width: 80%;
+            margin: 20px auto;
+        }
+
+        .tabs {
+            display: flex;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .tab {
+            padding: 10px 15px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            border-bottom: none;
+            background-color: #f0f0f0;
+        }
+
+        .tab.active {
+            background-color: white;
+        }
+
+        .tab-content {
+            padding: 20px;
+            border: 1px solid #ccc;
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .fluid-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        .fluid-table th,
+        .fluid-table td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .fluid-table th {
+            background-color: #f0f0f0;
+        }
+
+        .fluid-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .fluid-item {
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .fluid-name {
+            font-weight: bold;
+        }
+
+        .fluid-code {
+            color: #888;
+            margin-left: 10px;
+        }
+
+        #fluidSearch {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="tab-container">
+        <h1>Fluid Types</h1>
+        <div class="tabs">
+            <div class="tab active" data-tab="all">All</div>
+            <div class="tab" data-tab="gases">Gases</div>
+            <div class="tab" data-tab="liquids">Liquids</div>
+
+        </div>
+
+        <a href="index.html">Back to Calculator</a>
+    </div>
+
+    <script>
+        const tabs = document.querySelectorAll('.tab');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                const tabData = tab.dataset.tab;
+
+                tabs.forEach(t => t.classList.remove('active'));
+                tabContents.forEach(content => content.classList.remove('active'));
+
+                tab.classList.add('active');
+                document.querySelector(`.tab-content[data-tab="${tabData}"]`).classList.add('active');
+            });
+        });
+    </script>
+</body>
+
+</html>

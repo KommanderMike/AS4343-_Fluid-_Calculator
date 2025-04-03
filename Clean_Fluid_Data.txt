@@ -1,0 +1,910 @@
+Acetal VHL
+Acetaldehyde VHL
+Acetic Acid, glacial or Acetic acid solution 80% VHL
+Acetic Acid solution 10%-80% VHL
+Acetic Anhydride VHL
+Acetone VHL
+Acetone Cyanohydrin, stabilized VHL
+Acetone oils VHL
+Acetyl Bromide VHL
+Acetyl Chloride VHL
+Acetylene VHG
+Acetyl Iodide VHL
+Acetyl Methyl Carbinol VHL
+Acrolein Dimer, stabilized VHL
+Acrolein, inhibited LL
+Acrylic Acid inhibited VHL
+Acrylonitrile, inhibited VHL
+Adhesives containing flammable liquid VHL
+Adiponitrile VHL
+Air, compressed NHG
+Air, refrigerated liquid VHG
+Alcoholic Beverages >24% alcohol VHL
+Alcoholic Beverages NHL
+Alcohols+ VHL
+Alcohols, toxic + VHL
+Alkali Metal Alloys, liquid + VHL
+Alkaloids liquid + VHL
+Alkylamines + or Polyalkylamines +, corrosive VHL
+Alkylamines + or Polyalkylamines +, corrosive, flammable VHL
+Alkyl Phenols, liquid+ VHL
+Ally! Acetate VHL
+Ally! Alcohol VHL
+Allylamine VHL
+Allyl Chloride VHL
+Allyl Chloroformate VHL
+Allyl Ethyl Ether VHL
+Allyl Formate VHL
+Allyl Glycidyl Ether VHL
+Allyl Iodide VHL
+Allyl Isothiocyanate, inhibited VHL
+Allyl Trichlorosilane, stabilized VHL
+Aluminium Alkyl Halides VHL
+Aluminium Alkyl Hydrides VHL
+Aluminium Alkyls VHL
+Aluminium Bromide solution VHL
+Aluminium Chloride solution VHL
+2-Amino-5-Diethylamino Pentane VHL
+Ammonia, Anhydrous, liquefied or Ammonia solutions >50% VHG
+Ammonia solutions 35%-50% VHG
+Ammonium Hydrogen Fluoride solution VHL
+Ammonium Nitrate liquid (hot concentrated solution) VHL
+Ammonium Polysulfide solution VHL
+Ammonium Sulphide solution VHL
+Amyl Acetates VHL
+Amyl Acid Phosphate VHL
+Amyl Alcohols VHL
+Amylamine VHL
+Amyl Butyrates VHL
+Amyl Chloride VHL
+n-Amylene VHL
+Amyl Formates VHL
+Amyl Mercaptan VHL
+Amyl Methyl Ketone VHL
+Amyl Nitrate VHL
+Amyl Trichlorosilane VHL
+Aniline VHL
+Aniline Hydrochloride VHL
+Anisole VHL
+Antimony Pentachloride, liquid VHL
+Antimony Penthachloride, solution VHL
+Antimony Penta-fluoride VHL
+Argon, compressed NHG
+Argon, refrigerated liquid HG
+Arsenic Acid, liquid VHL
+Arsenic Compounds, liquid+ VHL
+Arsenic Pentoxide VHL
+Arsenic Trichloride VHL
+Arsenic Trioxide VHL
+Arsine LG
+Battery Fluid, acid VHL
+Battery Fluid, alkali VHL
+Benzene VHL
+Benzene Sulfonyl Chloride VHL
+Benzonitrile VHL
+Benzotrichloride VHL
+Benzotrifluoride VHL
+Benzoyl Chloride VHL
+Benzyl Bromide VHL
+Benzyl Chloride VHL
+Benzyl Chloroformate VHL
+Benzyl Dimethylamine VHL
+Benzylidene Chloride VHL
+Benzyl Iodide VHL
+Bisulfites, inorganic, aqueous solutions VHL
+Boron Tribromide VHL
+Boron Trichloride VHG
+Boron Triflouride VHG
+Boron Trifluoride Diethyletherate VHL
+Boron Trifluoride Dihydrate VHL
+Boron Trifluoride Dimethyl Etherate VHL
+Brake Fluid, hydraulic VHL
+Bromine or Bromine solutions VHL
+Bromine Chloride VHG
+Bromine Pentafluoride VHL
+Bromoacetic Acid VHL
+Bromoacetone VHL
+Bromoacetyl Bromide VHL
+Bromobenzene VHL
+2-Bromobutane VHL
+Bromochloromethane VHL
+1-Bromo-3-Chloropropane VHL
+2-Bromoethyl Ethyl Ether VHL
+l-Bromo-3-Methyl Butane VHL
+Bromoethyl Propanes VHL
+2-Bromopentane VHL
+Bromopropanes VHL
+3-Bromopropyne VHL
+Bromotrifluoro Ethylene VHG
+Bromotrifluoro Methane HG
+Butadienes, inhibited VHG
+Butane or Butane mixtures VHG
+Butanedione VHL
+Butanols VHL
+Butoxyl VHL
+Butyl Acetates VHL
+Butyl Acid Phosphate VHL
+Butyl Acrylate VHL
+n-Butylamine VHL
+N-Butylaniline VHL
+n-Butyl Bromide VHL
+tert-Butyl Cyclohexyl Chloroformate VHL
+Butylene VHG
+1,2-Butylene Oxide, stabilized VHL
+n-Butyl Formate VHL
+n-Butyl Isocyanate VHL
+Butyl Mercaptan VHL
+n-Butyl Methacrylate VHL
+Butyl Methyl Ether VHL
+Butyl Nitrites VHL
+Butylphenols, liquid VHL
+Butyl Propionate VHL
+Butyltoluenes VHL
+Butyl Trichlorosiline VHL
+Butyl Vinyl Ether, inhibited VHL
+Butyraldehyde VHL
+Butyraldoxime VHL
+Butyric Acid VHL
+Butyric Anhydride VHL
+Butyrontrile VHL
+Butyryl Chloride VHL
+Cadmium Compounds LL
+Caesium Hydroxide solution VHL
+Calcium Chlorate, Aqueous solution VHL
+Camphor Oil VHL
+Caproic Acid VHL
+Carbon Dioxide NHG
+Carbon Dioxide with >6% Ethylene Oxide VHG
+Carbon Dioxide with Nitrous oxide NHG
+Carbon Dioxide and Oxygen Mixtures NHG
+Carbon Dioxide, Refrigerated liquid HG
+Carbon Dioxide, Solid HG
+Carbon Disulfide VHL
+Carbon Monoxide VHG
+Carbon Monoxide with Hydrogen VHG
+Carbon Tetrachloride VHL
+Carbonyl Fluoride VHG
+Carbonyl Sulfide VHG
+Caustic Alkali liquid+ VHL
+Chlorine VHG
+Chlorine Pentafluoride VHG
+Chlorine Trifluoride VHG
+Chloroacetaldehyde VHL
+Chloroacetic Acid, molten VHL
+Chloroacetic Acid, solution VHL
+Chloroacetone VHL
+Chloroacetonitrile VHL
+Chloroacetophenone VHL
+Chloroacetyl Chloride VHL
+Chloroanilines, liquid VHL
+Chlorobenzene VHL
+Chlorobenzo Trifluorides VHL
+Chlorobutanes VHL
+Chloroform VHL
+Chloromethyl Chloroformate VHL
+Chloromethylethyl Ether VHL
+Chlorophenates, liquid VHL
+Chlorophenols, liquid VHL
+Chlorophenyl Trichlorosilane VHL
+Chloropicrin LL
+Chloropicrin and Methyl Bromide mixtures VHL
+Chloropicrin and Methyl Chloride mixtures VHL
+Chloropicrin mixtures+ VHL
+Chloroprene, inhibited VHL
+2-Chloropropane VHL
+3-Chloropropanol-1 VHL
+2-Chloropropene VHL
+a-Chloropropionic Acid VHL
+2-Chloropyridine VHL
+Chlorosilanes+ VHL
+Chlorosilanes+ VHL
+Chlorosilanes+ and corrosive VHL
+Chlorosilanes+ with water emit flammable gas VHL
+Chlorosulfonic Acid VHL
+Chlorotoluenes VHL
+1-Chloro-2,2,2-Trifluoroethane NHG
+Chromic Acid solution VHL
+Chromic Fluoride solution VHL
+Chromium Oxychloride VHL
+Chromosulfuric Acid VHL
+Coal Gas VHG
+Coal Tar Distillates, flammable VHL
+Compressed Gas+ NHG
+Compressed Gas, flammable+ VHG
+Compressed Gas, oxidizing+ VHG
+Compressed Gas, toxic+ VHG
+Corrosive liquid+ VHG
+Cresols VHL
+Cresylic Acid VHL
+Crotonaldehyde, stabilized VHL
+Crotonylene VHL
+Cupriethylene Diamine, solution VHL
+Cyanide solutions VHL
+Cyanogen Chloride, inhibited VHG
+Cyanogen, liquefied VHG
+Cyclobutane VHG
+Cyclobutyl Chloroformate VHL
+1,5,9-Cyclo Dodecatriene VHL
+Cycloheptane VHL
+Cycloheptatriene VHL
+Cycloheptene VHL
+Cyclohexanone VHL
+Cyclohexene VHL
+Cyclohexenyl Trichlorosilane VHL
+Cyclohexyl Acetate VHL
+Cyclohexy !amine VHL
+Cyclohexyl Isocyanate VHL
+Cyclohexyl Mercaptan VHL
+Cyclohexy I Trichlorosilane VHL
+Cyclooctadienes VHL
+Cycloctatetraene VHL
+Cyclopentanol VHL
+Cyclopentanone VHL
+Cyclopentene VHL
+Cyclopropane, liquefied VHG
+Cymenes VHL
+Decaborane LL
+Decahydro Naphthalene VHL
+n-Decane VHL
+Deuterium VHL
+Diacetone Alcohol VHL
+Diallylamine VHL
+Diallyl Ether VHL
+Di-n-Amylamine VHL
+Dibenzyldichloro Silane VHL
+Diborane LG
+Dibromobenzene VHL
+1,2-Dibromobutan-3-one VHL
+Dibromodifluoro Methane HL
+Dibromomethane VHL
+Di-n-Butylamine VHL
+Dibutylaminoethanol VHL
+Dibutyl Ethers VHL
+Dichloroacetic Acid VHL
+Dichloroacetyl Chloride VHL
+o-Dichlorobenzene VHL
+2,2-Dichlorodiethyl Ether VHL
+Dichloro Dimethyl Ether, Symmetrical LL
+1, 1-Dichloroethane VHL
+Dichloroethy lene VHL
+Dichloroisopropyl Ether VHL
+Dichloromethane VHL
+1,1-Dichloro-1-Nitro Ethane VHL
+Dichloropentanes VHL
+Dichlorophenyl Trichlorosilane VHL
+1,3-Dichloro Propanol-2 VHL
+Dichloropropenes VHL
+Dichlorosilane VHL
+Dichlorotetra Fluoroethane VHL
+Dicyclohexylamine VHL
+1,2-DI-(Dimethy lamino) Ethane VHL
+Diesel oil HL
+Diethoxymethane VHL
+3 ,3-Diethoxypropene VHL
+Diethylamine VHL
+Diethylaminoethanol VHL
+Diethylamino Propylamine VHL
+N,N-Diethylaniline VHL
+Diethyl benzene VHL
+Diethyl Carbonate VHL
+Diethyl Dichlorosilane VHL
+Diethylenetriamine VHL
+Diethyl Ether VHL
+N ,N-Dimethy lethlene Diamine VHL
+Diethyl Ketone VHL
+Diethyl Sulfate VHL
+Diethyl Sulfide VHL
+Diethyl Thiophosphoryl Chloride VHL
+Diethylzinc VHL
+Difluorophosphoric Acid, Anhydrous VHL
+2,3-Dihydropyran VHL
+Diisobutylamine VHL
+Diisobutylene VHL
+Diisobutyl Ketone VHL
+Diisooctyl Acid Phosphate VHL
+Diisopropylamine VHL
+Diisopropyl Ether VHL
+Diketene, inhibited VHL
+1, 1-Dimethoxyethane VHL
+1,2-Dimethoxyethane VHL
+Dimethylamine, Anhydrous VHG
+Dimethylamine solution VHL
+2-Dimethylamino Acetonitrile VHL
+Dimethylaminoethyl Methacrylate VHL
+N ,N-Dimethy !aniline VHL
+1,3-Dimethyl Butylamine VHL
+Dimethyl Carbamoyl Chloride VHL
+Dimethyl Carbonate VHL
+Dimethylcyclo Hexanes VHL
+N,N-Dimethylcyclo Hexylamine VHL
+Dimethyldichloro Silane VHL
+Dimethyldiethoxy Silane VHL
+Dimethy ldioxanes VHL
+Dimethyl Disulfide VHL
+Dimethylethanol Amine VHL
+Dimethyl Ether VHG
+N,N-Dimethyl Formamide VHL
+Dimethy !hydrazine, Symmetrical VHL
+Dimethylhydrazine, Unsymmetrical VHL
+2,2-Dimethylpropane VHG
+Dimethy 1-N-Propy !amine VHL
+Dimethyl Sulfate LL
+Dimethy I Sulfide VHL
+Dimethyl Thiophosphoryl Chloride VHL
+Dimethyl Zinc VHL
+Dinitrogen Tetroxide VHG
+Dinitrophenol solutions VHL
+Dioxane VHL
+Dioxolane VHL
+Dipentene VHL
+Diphenyldichloro Silane VHL
+Diprophy !amine VHL
+Dipropyl Ether VHL
+Dipropylketone VHL
+Disinfectants, corrosive liquid+ VHL
+Disinfectants, liquid+, poisonous VHL
+Distillate HL
+Divinyl Ether, inhibited VHL
+Dodecyl Trichlorosilane VHL
+Dyes, liquid, corrosive+ VHL
+Dyes, liquid, poisonous+ VHL
+Engine starting fluid with flammable gas VHG
+Environmentally hazardous substances, liquid+ HL
+Epibromohydrin VHL
+Ephichlorohydrin VHL
+Ethane, compressed VHG
+Ethane, refrigerated liquid VHG
+Ethanol VHL
+Ethanolamine or Ethanolamine solutions VHL
+Ethyl Acetate VHL
+Ethyl Acetylene, inhibited VHG
+Ethyl Acrylate, inhibited VHL
+Ethylamine VHG
+Ethylamine, aqueous solutions VHL
+Ethyl Amyl Ketone VHL
+2-Ethylaniline VHL
+N-Ethylaniline VHL
+Ethylbenzene VHL
+N-Ethyl-N-Benzylaniline VHL
+N-Ethylbenzyl Toluidines VHL
+Ethyl Borate VHL
+Ethyl Bromide VHL
+Ethyl Bromoacetate VHL
+2-Ethylbutanol VHL
+Ethylbutyl Acetate VHL
+Ethyl Butyl Ether VHL
+2-Ethyl Butyraldehyde VHL
+Ethyl Butyrate VHL
+Ethyl Chloride VHG
+Ethyl Chloroacetate VHL
+Ethyl Chloroformate VHL
+Ethyl 2-Chloropropionate VHL
+Ethyl Chlorothioformate VHL
+Ethyl Crotonate VHL
+Ethyl Cyanoacetate VHL
+Ethyl Dichloroarsine VHL
+Ethyl Dichlorosilane VHL
+Ethylene, Acetylene ::,22% and Propylene ::,6% of mixtures, VHG
+Ethylene Chlorohydrin VHL
+Ethylene, compressed VHG
+Ethy lenediamine VHL
+Ethylene Dibromide VHL
+Ethylene Dichloride VHL
+Ethylene Glycol Diethyl Ether VHL
+Ethylene Glycol Monobutyl Ether VHL
+Ethylene Glycol Monoethyl Ether VHL
+Ethylene Glycol Monoethyl Ether Acetate VHL
+Ethylene Glycol Monoethyl Ether VHL
+Ethylene Glycol Monomethyl Ether Acetate VHL
+Ethyleneimine, inhibited VHL
+Ethylene Oxide pure or with nitrogen VHG
+Ethylene Oxide and Propylene Oxide Mixtures VHL
+Ethylene, refrigerated liquid VHG
+Ethyl Fluoride VHG
+Ethyl Formate VHL
+2-Ethylhexylamine VHL
+2-Ethylhexyl Chloroformate VHL
+Ethyl Isobutyrate VHL
+Ethyl Isocyanate VHL
+Ethyl Lactate VHL
+Ethyl Mercaptan VHL
+Ethyl Methacrylate VHL
+Ethyl Methyl Ether VHG
+Ethyl Methyl Ketone VHL
+Ethyl Nitrite solutions VHL
+Ethyl Orthoformate VHL
+Ethyl Oxalate VHL
+Ethyl Phenyl Dichlorosilane VHL
+1-Ethylpiperidine VHL
+Ethyl Propionate VHL
+Ethyl Propyl Ether VHL
+Ethyl Sulfuric Acid VHL
+N-Ethyltoluidines VHL
+Ethylthricloro Silane VHL
+Extracts, Aromatic, liquid VHL
+Extracts, Flavouring, liquid VHL
+Ferric Chloride solution VHL
+Fertilizer Ammoniating solution with free ammonia HG
+Flammable liquid+ VHL
+Flammable liquid, corrosive VHL
+Flammable liquid, poisonous VHL
+Fluorine, compressed VHG
+Fluoroanilines VHL
+Fluorobenzene VHL
+Fluoroboric Acid VHL
+Fluorophosphoric Acid, Anyhydrous VHL
+Fluorosulfonic Acid VHL
+Fluorotoluenes VHL
+Fluosilicic Acid VHL
+Formaldehyde solutions with not less than 25% formaldehyde VHL
+Fumaryl Chloride VHL
+Furan VHL
+Furfural VHL
+Furfuryl Alcohol VHL
+Fusel Oil VHL
+Gas Drips, hydrocarbon VHL
+Germane VHG
+Glycerol-a-Monochlorohydrin VHL
+Glycidaldehyde VHL
+Halogenated irritating liquid+ VHL
+Helium compressed NHG
+Helium, refrigerated liquid HG
+n-Heptene VHL
+Hexachloroacetone VHL
+Hexachloro Butadiene VHL
+Hexachloro Cyclopentadiene LL
+Hexachlorophene VHL
+Hexadecyltrichloro Silane VHL
+Hexadiene VHL
+Hexaethyl Tetraphosphate VHL
+Hexaethyl Tetraphosphate and compressed gas mixtures VHG
+Hexafluoroacetone LL
+Hexafluoroacetone Hydrate VHL
+Hexafluoroethane Refrigerant Gas Rl 16 VHG
+Hexafluoro phosphoric acid VHL
+Hexafluoro Propylene VHG
+Hexaldehyde VHL
+Hexamethylene Diamine solution VHL
+Hexamethylene Diisocyanate VHL
+Hexamethyleneimine VHL
+Hexanols VHL
+1-Hexene VHL
+Hexyl Trichlorosilane VHL
+Hydrazine, Anhydrous, or Aqueous >64% LL
+Hydrazine Hydrate or Aqueous :::;64% VHL
+Hydriodic Acid solution VHL
+Hydrobromic Acid solution VHL
+Hydrocarbon Gas or Mixtures-compressed+ VHG
+Hydrocarbon Gas/Mixtures, liquefied+ VHG
+Hydrochloric Acid solution VHL
+Hydrocyanic Acid, Aqueous solutions with not more than 20% hydrocyanic acid VHL
+Hydrofluoric Acid solution >50% VHL
+Hydrofluoric Acid and Sulfuric Acid mixtures VHL
+Hydrogen Bromide, Anyhydrous VHG
+Hydrogen Chloride, Anyhydrous VHG
+Hydrogen Chloride, refrigerated liquid VHG
+Hydrogen, compressed VHG
+Hydrogen Cyanide, Anhydrous stabilized VHL
+Hydrogen fluoride, Anhydrous VHL
+Hydrogen Iodide, Anhydrous VHG
+Hydrogen and Methane mixtures, compressed VHG
+Hydrogen Peroxide stabilized, or Hydrogen Peroxide aqueous solutions, stabilized, with more than 60% Hydrogen Peroxide VHL
+Hydrogen Peroxide, aqueous solutions, 20%-60% VHL
+Hydrogen Peroxide, aqueous solutions, 8%-20% VHL
+Hydrogen, refrigerated liquid VHG
+Hydrogen, Selenide, Anhydrous LG
+Hydrogen Sulfide, Liquefied VHG
+Hypochlorite solutions with more than 5% available chlorine VHL
+3,3-Iminodi Propylamine VHL
+Infectious substances, affecting humans VHL
+Insecticide gas+ HG
+Insecticide gas, toxic+ VHG
+Iodine Monochloride VHL
+Iodine Pentafluoride VHL
+2-Iodobutane VHL
+Iodomethyl Propanes VHL
+Iodopropanes VHL
+Iron Pentacarbonyl VHL
+Isobutane or Isobutane mixtures VHG
+Isobutanol VHL
+Isobutyl Acetate VHL
+Isobutyl Acrylate VHL
+Isobutylamine VHL
+Isobutylene VHG
+Isobutyl Formate VHL
+Isobutyl Isobutyrate VHL
+Isobutyl Isocyanate VHL
+Isobutyl Methacrylate VHL
+Isobutyl Propionate VHL
+Isobutyraldehyde VHL
+Isobutyric Acid VHL
+Isobutyric Anydride VHL
+Isobutyronitrile VHL
+Isobutyryl Chloride VHL
+Isocyanates, solutions+ FP <23°C VHL
+Isocyanates, solutions+ FP <23°C-60°C VHL
+Isocyanates, solutions+ FP >60°C VHL
+Isocyanatobenzo Trifluorides VHL
+Isoheptene VHL
+Isohexane VHL
+Isopentenes VHL
+Isophoronediamine VHL
+Isophorone Diisocyanate VHL
+Isoprene, inhibited VHL
+Isopropanol VHL
+Isopropenyl Acetate VHL
+Isopropenylbenzene VHL
+Isopropyl Acetate VHL
+Isopropyl Acid Phosphate VHL
+Isopropylamine VHL
+Isopropylbenzene VHL
+Isopropyl Butyrate VHL
+Isopropyl Chloroacetate VHL
+Isopropyl Chloroformate VHL
+Isopropyl 2-Chloro Propionate VHL
+Isopropyl Isobutyrate VHL
+Isopropyl Isocyanate VHL
+Isopropyl Nitrate VHL
+Isopropyl Propionate VHL
+Keystones, liquid+ VHL
+Krypton, compressed NHG
+Krypton, refrigerated liquid HG
+Liquefied Gas+ NHG
+Liquefied Gas, flammable+ VHG
+Liquefied Gases, non-flammable, charged with nitrogen, carbon dioxide or air NHG
+Liquefied Gas, oxidizing+ VHG
+Liquefied Gas, toxic+ VHG
+Liquefied Gas, toxic, flammable+ VHG
+Liquefied Petroleum Gas VHG
+Lithium Alkyls VHL
+Lithium Aluminium Hydride, Ethereal VHL
+Lithium Hydroxide solution VHL
+Lithium Bromide and water NHL
+Magnesium alkyls VHL
+Medicines, liquid, flammable, poisonous+ VHL
+Mercaptans, liquid or mixtures+ FP <23°C VHL
+Mercaptans, liquid or mixtures FP ~23°C VHL
+Mercury VHL
+Mercury compounds, liquid+ VHL
+Mesityl oxide VHL
+Methacry !aldehyde VHL
+Methane, or Natural Gas, compressed, CNG VHG
+Methane or Natural Gas, refrigerated liquid, LNG VHG
+Methanol VHL
+Methoxymethyl Isocyanate VHL
+4-Methoxy-4-Methyl Pentan-2-One VHL
+1-Methoxy-2-Propano 1 VHL
+Methyl Acetate VHL
+Methyl Acetone VHL
+Methyl Acetylene and Propadiene, mixtures, stabilized VHG
+Methyl Acrylate, inhibited VHL
+Methylal VHL
+Methylallyl Chloride VHL
+Methylamine, Anhydrous VHG
+Methylamine, Aqueous solution VHL
+Methylamine Acetate VHL
+N-Methylaniline VHL
+Methyl Benzoate VHL
+a-Methylbenzyl Alcohol VHL
+Methyl Bromide VHG
+Methyl Bromide and Ethylene Dibromide mixtures, liquid VHL
+Methyl Bromoacetate VHL
+3-Methylbutan-2-one VHL
+2-Methyl-1-Butene VHL
+2-Methyl-2-Butene VHL
+3-Methyl-1-Butene VHL
+N-Me thy lbuty I amine VHL
+Methyl tert-Butyl Ether VHL
+Methyl Butyrate VHL
+Methyl Chloride = R40 VHG
+Methyl Chloride and Methylene Chloride mixture VHG
+Methyl Chloroacetate VHL
+Methyl Chloroformate VHL
+Methyl Chloromethyl Ether LL
+Methyl-2-Chloro Propionate VHL
+MethyChlorosilane VHG
+Methyl Cyanide VHL
+Methyl Cyclohexanols VHL
+Methylcyclo Hexanone VHL
+Methyldichloro Acetate VHL
+Methyldichloro Silane VHL
+2-Methyl-5-Ethyl Pyridine VHL
+Methyl Fluoride VHG
+Methyl Formate VHL
+2-Methy lfuran VHL
+5-Methylhexan-2-one VHL
+Methylhydrazine VHL
+Methyl Iodide VHL
+Methyl Isobutyl Carbinol VHL
+Methyl Isobutyl Ketone VHL
+Methyl Isocyanate VHL
+Methyl Isopropenyl Ketone, inhibited VHL
+Methyl Isothiocyanate VHL
+Methyl Isovalerate VHL
+Methyl Mercaptan VHG
+Methyl Methacrylate Monomer inhibited VHL
+Methylmorpholine VHL
+Methyl Nitrate VHL
+Methyl Orthosilicate VHL
+Methyl Pentadiene VHL
+2-Methylpentan-2-OL VHL
+Methylphenyl Dichlorosilane VHL
+1-Methy lpiperidine VHL
+Methyl Propionate VHL
+Methyl Propyl Ether VHL
+Methyl Propyl Ketone VHL
+Methyltetrahydro Furan VHL
+Methyltrichloro Acetate VHL
+Methyltrichloro Silane VHL
+a-Methylvaler Aldehyde VHL
+Methyl Vynyl Ketone VHL
+Mixed Acid VHL
+Morpholine VHL
+Motor Fuel Anti-knock mixtures VHL
+Naphtha VHL
+Naphtha, solvent VHL
+Naphthalene, molten VHL
+Natural Gas, see Methane
+Neon, compressed NHG
+Neon, refrigerated liquid HG
+Nickel Carbonyl LL
+Nicotine VHL
+Nitrating Acid mixtures VHL
+Nitrating Acid mixtures, spent VHL
+Nitric Acid, other than red fuming VHL
+Nitric Acid, red fuming VHL
+Nitric Oxide VHG
+Nitric Oxide with Dinitrogen Tetroxide VHG
+Nitroanisole VHL
+Nitro benzene VHL
+Nitrobenzo Trifluorides VHL
+Nitrocellulose solutions, flammable with more than 12.6% nitrogen, by mass, and not more than 55% nitrocellulose VHL
+3-Nitro-4-Chlorobenzo Trifluoride VHL
+Nitrogen, compressed NHG
+Nitrogen, refrigerated liquid HG
+Nitrogen Trifluoride VHG
+Nitrogen Trioxide VHG
+Nitroglycerin (1-5%) solution in alcohol VHL
+Nitrohydrochloric Acid VHL
+Nitromethane VHL
+Nitropropanes VHL
+Nitrosyl Chloride VHG
+Nitrous Oxide, compressed VHG
+Nitrous Oxide, refrigerated liquid VHG
+Nonyl trichlorosilane VHL
+2,5-Norbornadiene VHL
+Octadecyl Trichlorsilane VHL
+Octadiene VHL
+Octafluorobut-2-ENE NHG
+Octafluorocyclo Butane NHG
+Octafluoropropane NHG
+Octyl Aldehydes, flammable VHL
+tert-Octyl Mercaptan VHL
+Octyl Trichlorosilane VHL
+Oil gas VHG
+Oils, Combustible, e.g. bunker, furnace, heat-transfer, lubricating, transformer and vegetable HL
+Oils, Combustible, e.g. bunker, furnace, heat-transfer, lubricating, transformer and vegetable VHG
+Organic Peroxide Type B, Liquid+ VHL
+Osmium Tetroxide LL
+Oxygen, compressed VHG
+Oxygen, refrigerated liquid VHG
+Oxygen difluoride LG
+Ozone gas VHG
+Paint (including lacquer, stain, liquid filler, etc.)-Corrosive HL
+Paint (including lacquer, stain, liquid filler, etc.)-Flammable HL
+Paraldehyde VHL
+Pentaborane LL
+Pentachloroethane VHL
+Pentamethylheptane VHL
+Pentan-2,4-Dione VHL
+n-Pentane VHL
+1-Pentol VHL
+Perchloric Acid, 50-72% acid by mass VHL
+Perchloromethyl Mercaptan VHL
+Perchloryl Fluoride VHG
+Perfumery Products, with flammable solvent VHL
+Pesticides, almost all are VHL
+Petroleum Gases, liquefied VHG
+Petroleum products, includes: Cyclohexane VHL
+Petroleum products, includes: Cyclopentane VHL
+Petroleum products, includes: 2,3-Dimethylbutane VHL
+Petroleum products, includes: Fuel, aviation, turbine engine VHL
+Petroleum products, includes: Gas Oil VHL
+Petroleum products, includes: Heptanes VHL
+Petroleum products, includes: Hexanes VHL
+Petroleum products, includes: Isooctene VHL
+Petroleum products, includes: Kerosene VHL
+Petroleum products, includes: Methy lcyclohexane VHL
+Petroleum products, includes: Methy lcyclopentane VHL
+Petroleum products, includes: Motor spirit, includes gasoline or petrol VHL
+Petroleum products, includes: Naphtha, petroleum VHL
+Petroleum products, includes: Natural gasoline VHL
+Petroleum products, includes: Nonanes VHL
+Petroleum products, includes: Octanes VHL
+Petroleum products, includes: Petroleum crude oil VHL
+Petroleum products, includes: Petroleum distillates+ VHL
+Petroleum products, includes: Petroleum fuel VHL
+Petroleum products, includes: Petroleum spirit VHL
+Petroleum products, includes: Shale Oil VHL
+Petroleum products, includes: Toluene VHL
+Petroleum products, includes: Turpentine substitute VHL
+Phenetidines VHL
+Phenol, molten VHL
+Phenol, solutions VHL
+Phenolsulfonic Acid, liquid VHL
+Phenyl Acetonitrile, liquid VHL
+Phenylacetyl Chloride VHL
+Phenylcarbyamine Chloride VHL
+Phenyl Chloroformate VHL
+Phenyl Isocyanate VHL
+Phenyl Mercaptan VHL
+Phenyl Phosphorus Dichloride VHL
+Phenyl Phosphorus Thiodichloride VHL
+Phenyltrichloro Silane VHL
+Phosgene VHL
+Phosphine VHL
+Phosphoric Acid VHL
+Phosphorus Oxychloride VHL
+Phosphorus Pentafluoride VHG
+Phosphorus Tribromide VHL
+Phosphorus Trichloride VHL
+Phosphorus, White, molten VHL
+Picolines VHL
+a-Pinene VHL
+Pine Oil VHL
+Peperidine VHL
+Polychlorinated Biphenols VHL
+Potassium Chlorate Aqueous solution VHL
+Potassium Hydroxide solution VHL
+Propadiene, inhibited VHG
+Propane VHG
+n-Propanol VHL
+Propionaldehyde VHL
+Propionic Acid VHL
+Propionic Anhydride VHL
+Propionitrile VHL
+Propionyl Chloride VHL
+n-Propyl acetate VHL
+Propylamine VHL
+n-Propylbenzene VHL
+Propyl Chloride VHL
+n-Propyl Chloroformate VHL
+Propylene VHG
+Propylene Chlorohydrin VHL
+1,2-Propy lenediamine VHL
+Propylene Dichloride VHL
+Propyleneimine, inhibited VHL
+Propylene Oxide VHL
+Propylene Tetramer VHL
+Propyl Formates VHL
+n-Propyl Isocyanate VHL
+n-Propyl Nitrate VHL
+Propyl Trichlorosilane VHL
+Pyridine VHL
+Pyrophoric Liquid, inorganic+ VHL
+Pyrophoric Liquid, organic+ VHL
+Pyrosulfuryl Chloride VHL
+Pyrrolidine VHL
+Quinoline VHL
+Rare Gas Mixtures NHG
+Refrigerant Gases, non-toxic and non-flammable NHG
+Refrigerant Gases, toxic or flammable VHG
+Rosin oil VHL
+Rubber solution VHL
+Rubidium Hydroxide VHL
+Sarin LG
+Silane VHG
+Silicon Tetrachloride VHL
+Silicon Tetrafluoride VHG
+Sodium Aluminate solution VHL
+Sodium Arsenite solutions VHL
+Sodium Chlorate, Aqueous solution VHL
+Sodium Chlorite solution VHL
+Sodium Cuprocyanide solution VHL
+Sodium Hydroxide solution VHL
+Stannic Chloride, Anhydrous VHL
+Steam HG
+Stibine VHG
+Styrene Monomer, inhibited VHL
+Sulfur Chlorides VHL
+Sulfur Dioxide, Liquefied VHG
+Sulfur Hexafluoride NHG
+Sulfuric Acid VHL
+Sulfur, molten VHL
+Sulfurous Acid VHL
+Sulfur Tetrafluoride VHG
+Sulfuryl Chloride VHL
+Sulfuryl Fluoride VHG
+Tars, Liquid including bitumen VHL
+Tear Gas Substances, liquid/solid+ VHL
+Tellurium Hexafluoride VHG
+Terpine Hydrocarbons+ VHL
+Terpinolene VHL
+Tetrabromoethane VHL
+Tetrachloroethane VHL
+Tetrachloroethylene VHL
+Tetraethyl Dithiopyrophosphate VHL
+Tetraethylene Pentamine VHL
+Tetraethyl Pyrophosphate and compressed gas LG
+Tetraethyl Silicate VHL
+Tetrafluoroethylene, inhibited VHG
+1, 2, 3, 6-Tetrahydrobenzaldehyde VHL
+Tetrahydrofuran VHL
+Tetrahydrofurfurylamine VHL
+1, 2, 3, 6-Tetrahydropyridine VHL
+Tetrahydrothiophene VHL
+Tetramethylsilane VHL
+Tetranitromethane VHL
+Tetrapropylorthotitanate VHL
+Thia-4-Pentanal VHL
+Thioacetic Acid VHL
+Thioglycol VHL
+Thioglycolic Acid VHL
+Thiolactic Acid VHL
+Thionyl Chloride VHL
+Thiophene VHL
+Thi op hos gene VHL
+Thiophosphoryl Chloride VHL
+Titanium Tetrachloride VHL
+Toluene VHL
+Toluene Diisocyanate VHL
+Trially !amine VHL
+Triallyl Borate VHL
+Tributylamine VHL
+Trichloroacetic Acid, solution VHL
+Trichloroacetyl Chloride VHL
+Trichlorobenzenes VHL
+Trichlorobutene VHL
+1, 1, I-Trichloroethane VHL
+Trichloroethylene VHL
+Trichlorosilane VHL
+Tricresyl Phosphate VHL
+Triethylamine VHL
+Triethylene Tetramine VHL
+Triethyl Phosphite VHL
+Trifluoroacetic Acid VHL
+Trifluoroacetyl Chloride VHG
+Trifluorochloroethy Jene, inhibited VHG
+Triisobutylene VHG
+Triisopropyl Borate VHL
+Trimethyl Acetyl Chloride VHL
+Trimethylamine, Anhydrous VHG
+1, 3, 5-Trimethylbenzene VHL
+Trimethyl Borate VHL
+Trimethyl Chlorosilane VHL
+Trimethy lcyclohexy !amine VHL
+Trimethylhexamethylenediamines VHL
+Trimethylhexamethylene Diisocyanate VHL
+Trimethyl Phosphite VHL
+Tripropylamine VHL
+Tungsten Hexafluoride VHG
+Turpentine VHL
+Undecane VHL
+Valeraldehyde VHL
+Valery! Chloride VHL
+Vanadium Oxytrichloride VHL
+Vanadium Tetrachloride VHL
+Vinyl Acetate, inhibited VHL
+Vinyl Bromide, inhibited VHL
+Vinyl Butyrate, inhibited VHL
+Vinyl Chloride, inhibited VHG
+Vinyl Chloroacetate VHL
+Vinyl Ethyl Ether, inhibited VHL
+Vinyl Fluoride, inhibited VHG
+Vinylidene Chloride, inhibited VHL
+Vinyl Isobutyl Ether, inhibited VHL
+Vinyl Methyl Ether, inhibited VHG
+Vinyltoluene, inhibited VHL
+Viny ltrichlorosilane VHL
+Water, fresh and sea: HG
+Water, fresh and sea: HL
+Water, fresh and sea: NHL
+Water based potable liquids: HG
+Water based potable liquids: HL
+Water based potable liquids: NHL
+Wood preservatives, liquid VHL
+Xenon NHG
+Xylenes VHL
+Xylidines VHL
+Xylyl Bromide VHL
+Zinc Chloride solution VHL
