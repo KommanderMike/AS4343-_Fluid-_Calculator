@@ -17,7 +17,6 @@ Acrylic Acid inhibited VHL
 Acrylonitrile, inhibited VHL
 Adhesives containing flammable liquid VHL
 Adiponitrile VHL
-Air, compressed NHG
 Air, refrigerated liquid VHG
 Alcoholic Beverages >24% alcohol VHL
 Alcoholic Beverages NHL
@@ -69,7 +68,6 @@ Anisole VHL
 Antimony Pentachloride, liquid VHL
 Antimony Penthachloride, solution VHL
 Antimony Penta-fluoride VHL
-Argon, compressed NHG
 Argon, refrigerated liquid HG
 Arsenic Acid, liquid VHL
 Arsenic Compounds, liquid+ VHL
@@ -518,7 +516,7 @@ Isobutyl Methacrylate VHL
 Isobutyl Propionate VHL
 Isobutyraldehyde VHL
 Isobutyric Acid VHL
-Isobutyric Anydride VHL
+Isobutyric Anhydride VHL
 Isobutyronitrile VHL
 Isobutyryl Chloride VHL
 Isocyanates, solutions+ FP <23°C VHL
