@@ -1,20 +1,25 @@
 import re
-import traceback  # Import the traceback module
+from bs4 import BeautifulSoup, NavigableString
+import traceback
 
 def parse_fluid_data(data):
     """Parses the fluid data, extracting the fluid name and fluid type."""
     fluids = []
-    for line in data.strip().split('\n'):
-        print(f"Parsing line: '{line}'")  # Log the line being processed
-        match = re.search(r'^\s*([A-Za-z0-9\s,\-]+)\s+(VHL|VHG|HL|HG|LL|LG|NHL)\s*$', line)
-        if match:
-            name = match.group(1).strip()
-            fluid_type = match.group(2).strip()
-            fluids.append({'name': name, 'type': fluid_type})
-            print(f"  -> Found: Name='{name}', Type='{fluid_type}'")  # Log successful parse
-        else:
-            print(f"  -> Warning: Skipping line - Invalid format: '{line}'")  # Log skip
-    print(f"Parsed {len(fluids)} fluids.")  # Log total parsed
+    for i, line in enumerate(data.strip().split('\n')):
+        print(f"DEBUG: Parsing line {i + 1}: '{line.strip()}'")
+        try:
+            match = re.search(r'^\s*([A-Za-z0-9\s,\-]+)\s+(VHL|VHG|HL|HG|LL|LG|NHL)\s*$', line)
+            if match:
+                name = match.group(1).strip()
+                fluid_type = match.group(2).strip()
+                fluids.append({'name': name, 'type': fluid_type})
+                print(f"   -> DEBUG: Found: Name='{name}', Type='{fluid_type}'")
+            else:
+                print(f"   -> DEBUG: Warning: Skipping line - Invalid format: '{line.strip()}'")
+        except Exception as e:
+            print(f"   -> ERROR: Exception while parsing line {i + 1}: {e}")
+            traceback.print_exc()
+    print(f"DEBUG: Parsed {len(fluids)} fluids.")
     return fluids
 
 def generate_fluid_table_html(fluids):
@@ -66,20 +71,21 @@ def generate_fluid_table_html(fluids):
     }
     </script>
     """
-    print("Generated HTML table.")  # Log HTML generation
+    print("DEBUG: Generated HTML table.")
     return html
 
+# --- Main Execution ---
 try:
     with open("Clean_Fluid_Data.txt", "r", encoding="utf-8") as file:
         fluid_data_raw = file.read()
-        print("Successfully opened Clean_Fluid_Data.txt")  # Log file open
-    except FileNotFoundError:
-        print("Error: Clean_Fluid_Data.txt not found.")
-        exit()
-    except Exception as e:  # Catch any other exceptions during file read
-        print(f"Error reading Clean_Fluid_Data.txt: {e}")
-        traceback.print_exc()  # Print the full traceback
-        exit()
+    print("DEBUG: Successfully opened Clean_Fluid_Data.txt")
+except FileNotFoundError:
+    print("ERROR: Clean_Fluid_Data.txt not found.")
+    exit()
+except Exception as e:
+    print(f"ERROR: Exception reading Clean_Fluid_Data.txt: {e}")
+    traceback.print_exc()
+    exit()
 
 fluids = parse_fluid_data(fluid_data_raw)
 fluid_table_html = generate_fluid_table_html(fluids)
@@ -87,32 +93,42 @@ fluid_table_html = generate_fluid_table_html(fluids)
 try:
     with open("fluid-types.html", "r", encoding="utf-8") as file:
         fluid_types_html = file.read()
-        print("Successfully opened fluid-types.html")  # Log file open
-    except FileNotFoundError:
-        print("Error: fluid-types.html not found.")
-        exit()
-    except Exception as e:  # Catch any other exceptions during file read
-        print(f"Error reading fluid-types.html: {e}")
-        traceback.print_exc()  # Print the full traceback
-        exit()
-
-start_index = fluid_types_html.find('<div class="tab-content active" data-tab="all">')
-end_index = fluid_types_html.find('</div>', start_index, start_index + 500)
-
-if start_index != -1 and end_index != -1:
-    new_fluid_types_html = fluid_types_html[:start_index] + fluid_table_html + fluid_types_html[end_index]
-    print("Successfully modified HTML content.")  # Log HTML modification
-else:
-    print("Error: Could not find the correct insertion points in fluid-types.html")
+    print("DEBUG: Successfully opened fluid-types.html")
+except FileNotFoundError:
+    print("ERROR: fluid-types.html not found.")
+    exit()
+except Exception as e:
+    print(f"ERROR: Exception reading fluid-types.html: {e}")
+    traceback.print_exc()
     exit()
 
-try:
-    with open("fluid-types.html", "w", encoding="utf-8") as file:
-        file.write(new_fluid_types_html)
-        print("Successfully wrote to fluid-types.html")  # Log file write
-    except Exception as e:  # Catch any exceptions during file write
-        print(f"Error writing to fluid-types.html: {e}")
-        traceback.print_exc()  # Print the full traceback
-        exit()
+soup = BeautifulSoup(fluid_types_html, 'html.parser')
 
-print("Script completed successfully.")
+# More robust way to find the target div
+target_div = soup.find("div", {"class": "tab-content", "data-tab": "all"})
+if not target_div:
+    target_div = soup.find("div", class_="tab-content")
+    if target_div:
+        if target_div.has_attr("data-tab") and target_div["data-tab"] != "all":
+            target_div = None  # Found a div, but it's not the right data-tab
+
+if target_div:
+    print("DEBUG: Found target div in fluid-types.html")
+    try:
+        target_div.clear()
+        new_content = BeautifulSoup(fluid_table_html, 'html.parser')
+        for element in new_content.contents:
+          if element.name is not None or isinstance(element, NavigableString):
+            target_div.append(element)
+        with open("fluid-types.html", "w", encoding="utf-8") as file:
+            file.write(str(soup))
+        print("DEBUG: Successfully updated fluid-types.html")
+    except Exception as e:
+        print(f"ERROR: Exception modifying fluid-types.html: {e}")
+        traceback.print_exc()
+        exit()
+else:
+    print("ERROR: Could not find the target div in fluid-types.html")
+    exit()
+
+print("DEBUG: Script completed.")
